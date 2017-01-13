@@ -10,8 +10,8 @@
 
 # Projet PIX Street - Unity/Android
 
-Le projet PIX Street Unity/Android est un programme réalisé sous unity converti pour android  studio.
-Ce projet s'adresse aux versions android 5, 6 et 7 (Lollipop - Marshmallow - Nougat)
+Le projet PIX Street Unity/Android est un programme réalisé sous Unity converti pour Android studio.
+Ce projet s'adresse aux versions Android 5, 6 et 7 (Lollipop - Marshmallow - Nougat)
 
 ## Installation
 
@@ -21,7 +21,7 @@ Vous devez posséder une version d'Android Studio à jour. Veillez à bien tél�
 
 ### Installation
 
-Pour récupérer une copie du projet vous pouvez simplement faire un git clone dans votre terminal :
+Pour récupérer une copie du projet, vous pouvez simplement faire un git clone dans votre terminal :
 
 ```
 git clone https://github.com/WePlay-HPY/basketball-waste.git
@@ -35,7 +35,7 @@ Le déploiement s'effectue sur un smartphone possédant une version d'Android 5,
 
 * **WePlay-HPY** - *Initial work* - [WePlay-HPY](https://github.com/WePlay-HPY)
 
-Vous pouvez voir la liste des [contributeurs](https://github.com/WePlay-HPY/basketball-waste.git/contributors) qui ont participé sur ce projet.
+Vous pouvez voir la liste des [contributeurs](https://github.com/WePlay-HPY/basketball-waste.git/contributors) qui ont participé à ce projet.
 
 ## License
 
@@ -45,5 +45,5 @@ Ce projet est déployé sous licence CBY - regardez [LICENSE.md](LICENSE.md) pou
 
 * Nous remercions l'ensemble des participants au projet.
 * Nous remercions les enseignants ENSICAEN pour leur soutient par rapport à différentes questions techniques.
-* Nous remercions le dômes de Caen pour son accueil, ses conseils et la mise à disposition du matériel.
+* Nous remercions le Dôme de Caen pour son accueil, ses conseils et la mise à disposition du matériel.
 * Nous remercions OpenStreetMap et sa communauté pour la mise à disposition de données de cartographie.
